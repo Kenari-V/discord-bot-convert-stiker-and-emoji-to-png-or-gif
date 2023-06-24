@@ -6,3 +6,8 @@ discord bot convert stiker and emoji to png or gif.
 
 <h2>How To Use</h2>
 <p>Reply message stiker or emoji with command</p>
+
+<h2>Installing</h2>
+<p>pip install discord.py</p>
+<p>pip install os-sys</p>
+<p>pip install python-dotenv</p>
